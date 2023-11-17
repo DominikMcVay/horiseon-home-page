@@ -75,12 +75,6 @@ p {
     margin-left: 20px;
 }
 
-@media screen and (max-width: 600) {
-    .content {
-        width: 100%;
-    }
-}
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
